@@ -1,1 +1,51 @@
 /* your code here */
+body{
+            background: #000;
+        }
+        .head{
+            padding: 10px 20px;
+            color: white;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        img{
+            height: 40px;
+        }
+        .images{
+            display: flex;
+            gap: 10px;
+        }
+        a{
+            text-decoration: none;
+            color: white;
+        }
+        .body{
+            margin: 20px;
+            display: flex;
+            justify-content: space-between;
+            gap:20px
+        }
+        .tems{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            gap: 10px;
+        }
+        a:nth-child(1){
+            text-decoration:underline;
+            text-underline-offset: 0.3em;
+        }
+        .foot{
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            color: white;
+            background-color: rgb(44, 48, 58);
+        }
+        .left{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 5px;
+        }
