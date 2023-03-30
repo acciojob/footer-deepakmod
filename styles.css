@@ -2,7 +2,7 @@
 body{
             background: #000;
         }
-        .head{
+        .media-icons{
             padding: 10px 20px;
             color: white;
             display: flex;
@@ -20,7 +20,7 @@ body{
             text-decoration: none;
             color: white;
         }
-        .body{
+        .link-boxes{
             margin: 20px;
             display: flex;
             justify-content: space-between;
