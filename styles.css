@@ -9,6 +9,10 @@ body{
             justify-content: space-between;
             align-items: center;
         }
+		.media-icons a{
+			text-decoration: none;
+            color: white;
+		}
         img{
             height: 40px;
         }
